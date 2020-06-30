@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "617933058585",
+    "firebase_url": "https://fir-android-db-get-put.firebaseio.com",
+    "project_id": "fir-android-db-get-put",
+    "storage_bucket": "fir-android-db-get-put.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617933058585:android:d1a3136fd35f64b82cf088",
+        "android_client_info": {
+          "package_name": "com.example.firebase_android_db_get_put"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617933058585-ss8rn3sjq7c02rkqptienm17m75vg3na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF8D_Y5brDj09TW9R2pN60ZyRZASjB_JM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617933058585-ss8rn3sjq7c02rkqptienm17m75vg3na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
